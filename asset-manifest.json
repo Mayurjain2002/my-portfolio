@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.164ce762.css",
+    "main.js": "/my-portfolio/static/js/main.e5320a2f.js",
+    "static/media/React-App-netflix-clone.png": "/my-portfolio/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/my-portfolio/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/my-portfolio/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/my-portfolio/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/memegenerator.png": "/my-portfolio/static/media/memegenerator.29b5264f637bd3f8c74d.png",
+    "static/media/vish3.png": "/my-portfolio/static/media/vish3.acd35573d336eabf7b09.png",
+    "static/media/Admin-Panel-Dashboard.png": "/my-portfolio/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/my-portfolio/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/weatherapp.png": "/my-portfolio/static/media/weatherapp.a3df4ba051c315674b91.png",
+    "static/media/todolist.png": "/my-portfolio/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.a9ef8b2656e2b4b4e241.png",
+    "static/media/bars.svg": "/my-portfolio/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.164ce762.css.map": "/my-portfolio/static/css/main.164ce762.css.map",
+    "main.e5320a2f.js.map": "/my-portfolio/static/js/main.e5320a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.164ce762.css",
+    "static/js/main.e5320a2f.js"
+  ]
+}
