@@ -20,7 +20,7 @@ function Home() {
             <span></span>
             <Text />
             <button onClick={() => {
-              window.open("https://https://github.com/Mayurjain2002.com/rahulvijay81");
+              window.open("https://github.com/Mayurjain2002");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
